@@ -1,2 +1,5 @@
 # hello-world
-This repository will provide a hello word response
+
+Hi,
+
+My name is Ethan Bacica and I am learning about Github. 
